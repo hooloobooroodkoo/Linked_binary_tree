@@ -422,6 +422,3 @@ class LinkedBST(AbstractCollection):
         time_4_end = time.time()
         time_4 = time_4_end - time_4_start
         print(f"Time 4:  {time_4}   *find 10.000 words among 250.000 using balanced tree\n")
-if __name__ == "__main__":  
-    tree = LinkedBST()
-    tree.demo_bst('words.txt')
