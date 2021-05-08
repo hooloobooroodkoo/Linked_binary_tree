@@ -12,7 +12,7 @@ tree = LinkedBST()
 tree.demo_bst()
 ```
 
-![Screenshot](screenshot(1).png)
+![Screenshot](Screenshot/screenshot(1).png)
 
 
 ## Contributing
